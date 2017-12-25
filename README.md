@@ -8,8 +8,6 @@ https://www.researchgate.net/publication/265852779
 
 Other relevant papers from our group:
 
-https://www.researchgate.net/publication/265852779
-
 https://www.researchgate.net/publication/317380340
 
 https://www.researchgate.net/publication/316364709
