@@ -1,7 +1,7 @@
 # Arabic-Articles-Political-Orientation
 This repository is related to our work on categorizing Arabic articles based on their political orientation.
 
-Specifically, the file "Raddad's Conference Dataset.zip" contains the dataset used in the following paper:
+Specifically, the file "Raddad's Conference Dataset.zip" (alternative link: https://www.researchgate.net/publication/322049184) contains the dataset used in the following paper:
 
 Abooraig, R., Alwajeeh, A., Al-Ayyoub, M., & Hmeidi, I. (2014). On the automatic categorization of arabic articles based on their political orientation. In Third International Conference on Informatics Engineering and Information Science (ICIEIS2014).
 https://www.researchgate.net/publication/265852779
